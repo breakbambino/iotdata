@@ -1,5 +1,5 @@
 ## IoT 도시데이터 관리시스템
-IoT 도시데이터 관리시스템 분석용 데이터 외부 제공
+IoT 도시데이터 관리시스템 분석용 샘플 데이터 제공
 
 ## 샘플 데이터
 
@@ -16,16 +16,21 @@ IoT 도시데이터 관리시스템 분석용 데이터 외부 제공
   - 상세 정보 : data_detail.xlsx
   
 ### 샘플 데이터
-- PUBDATA_20200216.csv
+- 2020.02.16 측정 데이터
+  - PUBDATA_20200216.csv
 
 ## 샘플 분석 소스 
 
-### 소스 실행 방법
+### 분석 소스 설명
+- .csv 파일을 json 형태로 읽어드립니다.
+
+### 분석 소스 실행 방법
 1. 파이썬을 설치합니다. <https://www.python.org/downloads/>
-2. csvfile.py파일과 실행할 csv파일을 Github에서 다운받습니다.
+2. csvfile.py 파일과 실행할 .csv 파일을 Github에서 다운받습니다.
 3. 명령프롬프트(cmd)창을 실행한 후 csvfile.py 파일을 다운받은 경로로 이동합니다.    
  ex) cd (파일을 다운받은 경로)
 4. python csvfile.py 를 입력합니다.
-5. 실행할 csv파일을 선택합니다.
-6. 실행 결과는 다음과 같습니다.
-<br/><img src="/cvsfile_result.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="cvsfile_result"></img><br/>
+5. 실행할 .csv 파일을 선택합니다.
+6. 실행결과는 다음과 같습니다.
+---
+<img src="/cvsfile_result.png" width="850px" height="450px" title="cvsfile_result" alt="cvsfile_result"></img><br/>
