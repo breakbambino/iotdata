@@ -17,7 +17,7 @@ IoT 도시데이터 관리시스템 분석용 샘플 데이터 제공
   * 헤더 길이 : 18
   * 상세 정보 : data_detail.xlsx 
 
--  데이터 설명 1 : (sensor_data_information.csv)
+- 데이터 설명 1 : sensor_data_information.csv
   * 모델명
   * 시리얼
   * 미세먼지2.5(초미세먼지) (㎍/㎥)
@@ -44,11 +44,11 @@ IoT 도시데이터 관리시스템 분석용 샘플 데이터 제공
   * 등록 일시 (yyyy-mm-dd hh:mm:ss)
 
 
-- 데이터 설명 2 : (sensor_longitude_latitude.csv_
+- 데이터 설명 2 : sensor_longitude_latitude.csv
   * 시리얼
   * 위도
   * 경도 
-  * 상세 정보 : data_detail.xlsx
+ 
 
   
   
