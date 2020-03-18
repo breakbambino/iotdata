@@ -1,1 +1,35 @@
-data_information
+- 데이터 출처
+  * 기관 : 서울시
+  * 서비스명 : S-DoT(서울시 도시데이터 센서)_측정자료
+
+- 데이터 설명 1 : data_info/sensor_data_information.csv
+  * 모델명
+  * 시리얼
+  * 미세먼지2.5(초미세먼지) (㎍/㎥)
+  * 미세먼지10(미세먼지) (㎍/㎥)
+  * 기온 (℃)
+  * 상대습도 (%)
+  * 풍향 (m/s)
+  * 풍속 (m/s)
+  * 돌풍 풍향 (m/s)
+  * 돌풍 풍속 (m/s)
+  * 조도 (lux)
+  * 자외선 (UV)
+  * 소음 (dB)
+  * 진동(x) (mm/s)
+  * 진동(y) (mm/s)
+  * 진동(z) (mm/s)
+  * 진동(x) 최대 (mm/s)
+  * 진동(y) 최대 (mm/s)
+  * 진동(z) 최대 (mm/s)
+  * 흑구 온도 (℃)
+  * pm25 보정 (㎍/㎥)
+  * pm10 보정 (㎍/㎥)
+  * 측정시간 (yyyymmddhi)
+  * 등록 일시 (yyyy-mm-dd hh:mm:ss)
+
+
+- 데이터 설명 2 : data_info/sensor_longitude_latitude.csv
+  * 시리얼
+  * 위도
+  * 경도 
