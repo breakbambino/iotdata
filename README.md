@@ -12,7 +12,7 @@ IoT 도시데이터 관리시스템 분석용 샘플 데이터 제공
   * 기관 : 서울시
   * 서비스명 : S-DoT(서울시 도시데이터 센서)_측정자료
 
-- 데이터 설명 1 : data_info/sensor_data_information.csv
+- 데이터 구조 1 :IoT센서로 는 데이터 (data_info/sensor_data_information.csv)
   * 모델명
   * 시리얼
   * 미세먼지2.5(초미세먼지) (㎍/㎥)
@@ -39,7 +39,7 @@ IoT 도시데이터 관리시스템 분석용 샘플 데이터 제공
   * 등록 일시 (yyyy-mm-dd hh:mm:ss)
 
 
-- 데이터 설명 2 : data_info/sensor_longitude_latitude.csv
+- 데이터 구조 2 : IoT센서가 설치된 위도,경도 데이터 (data_info/sensor_longitude_latitude.csv)
   * 시리얼
   * 위도
   * 경도 
