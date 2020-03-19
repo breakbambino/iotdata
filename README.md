@@ -55,7 +55,7 @@ IoT 도시데이터 관리시스템 분석용 샘플 데이터 제공
 ## 샘플 분석 소스 
 
 ### 분석 소스 설명
-- .csv 파일을 json 형태로 읽어드립니다.
+- .csv 파일을 json 형태로 표현합니다.
 
 ### 분석 소스 실행 방법
 1. 파이썬을 설치합니다. <https://www.python.org/downloads/>(설치 시 Add Python 3.8 to PATH 체크 박스 체크)
