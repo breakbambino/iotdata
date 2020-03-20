@@ -9,7 +9,7 @@ IoT 도시데이터 시스템을 통해 수집한 데이터 (서울시에 설치
   * 기관 : 서울시
   * 서비스명 : S-DoT 서울시 도시데이터 센서 
 
-- 데이터 구조 1 : 실수집 데이터 구조 (data_info[/sensor_data_information.csv](https://github.com/seoul-iotdata/iotdata/blob/master/data_info/sensor_data_information.csv))
+- 데이터 구조 : 실수집 데이터 구조 (data_info[/sensor_data_information.csv](https://github.com/seoul-iotdata/iotdata/blob/master/data_info/sensor_data_information.csv))
 
   * 모델명
   * 시리얼
@@ -36,7 +36,7 @@ IoT 도시데이터 시스템을 통해 수집한 데이터 (서울시에 설치
   * 측정시간 (yyyymmddhi)
   * 등록 일시 (yyyy-mm-dd hh:mm:ss)  
 
-- 데이터 구조 2 : 센서가 위치한 위도,경도 데이터 (data_info/sensor_longitude_latitude.csv)
+- 데이터 구조 : 센서가 위치한 위도,경도 데이터 (data_info[/sensor_longitude_latitude.csv](https://github.com/seoul-iotdata/iotdata/blob/master/data_info/sensor_longitude_latitude.csv))(data_info/sensor_longitude_latitude.csv)
   * 시리얼
   * 위도
   * 경도 
