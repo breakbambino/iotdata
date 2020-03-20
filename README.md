@@ -1,5 +1,5 @@
 ## IoT 도시데이터 시스템
-IoT 도시데이터 시스템에서 추출한 데이터 제공 (서울시에 설치된 850개 미세먼지, 초미세먼지 등 센서 데이터)
+IoT 도시데이터 시스템을 통해 수집한 데이터 (서울시에 설치된 850개 미세먼지, 초미세먼지 등 센서 데이터)
 
 
 
@@ -9,7 +9,7 @@ IoT 도시데이터 시스템에서 추출한 데이터 제공 (서울시에 설
   * 기관 : 서울시
   * 서비스명 : S-DoT 서울시 도시데이터 센서 
 
-- 데이터 구조 1 : IoT센서를 통해 수집되는 데이터 (data_info/[sensor_data_information.csv](https://github.com/seoul-iotdata/iotdata/blob/master/data_info/sensor_data_information.csv, "sensor_data_information.csv"))
+- 데이터 구조 1 : 실 수집되는 데이터 (data_info/[sensor_data_information.csv](https://github.com/seoul-iotdata/iotdata/blob/master/data_info/sensor_data_information.csv, "sensor_data_information.csv"))
 
   * 모델명
   * 시리얼
@@ -36,7 +36,7 @@ IoT 도시데이터 시스템에서 추출한 데이터 제공 (서울시에 설
   * 측정시간 (yyyymmddhi)
   * 등록 일시 (yyyy-mm-dd hh:mm:ss)  
 
-- 데이터 구조 2 : IoT센서가 설치된 위도,경도 데이터 (data_info/sensor_longitude_latitude.csv)
+- 데이터 구조 2 : 센서가 위치한 위도,경도 데이터 (data_info/sensor_longitude_latitude.csv)
   * 시리얼
   * 위도
   * 경도 
