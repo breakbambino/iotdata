@@ -62,7 +62,7 @@
 
 ### 파이선 분석 소스 
 1. 파이썬을 설치합니다. <https://www.python.org/downloads/>(설치 시 Add Python 3.8 to PATH 체크 박스 체크)
-2. csvfile.py 파일과 실행할 .csv 파일을 Github에서 다운받습니다.
+2. python_sample_code.py 파일과 실행할 .csv 파일을 Github에서 다운받습니다.
 3. 명령프롬프트(cmd)창을 실행한 후 csvfile.py 파일을 다운받은 경로로 이동합니다.    
  ex) cd (파일을 다운받은 경로)
 4. python csvfile.py 를 입력합니다.
