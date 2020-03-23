@@ -45,7 +45,7 @@
 
   
   
-### 센서 RAW 데이터(용량 제한으로 ZIP으로 압축)(data_raw\)
+### 데이터 RAW (용량 제한으로 ZIP으로 압축)(data_raw\)
 
 - 2020-03-15 ~ 2020-03_21 수집 데이터
   * ALLDATA_20200315.csv
@@ -60,9 +60,6 @@
 
 
 ## 샘플 분석 소스 
-
-### 분석 소스 설명
-- .csv 파일을 json 형태로 표현합니다.
 
 ### 분석 소스 실행 방법
 1. 파이썬을 설치합니다. <https://www.python.org/downloads/>(설치 시 Add Python 3.8 to PATH 체크 박스 체크)
