@@ -10,6 +10,7 @@
   * 기관 : 서울시
   * 서비스명 : 서울시 IoT 도시데이터 시스템 
 
+
 - 센서 데이터 구조 (data_info[/sensor_data_information.csv](https://github.com/seoul-iotdata/iotdata/blob/master/data_info/sensor_data_information.csv))
 
   * 모델명
@@ -37,7 +38,7 @@
   * 측정시간 (yyyymmddhi)
   * 등록 일시 (yyyy-mm-dd hh:mm:ss)  
 
-
+  
 -  센서가 설치된 위도,경도 데이터 (data_info[/sensor_longitude_latitude.csv](https://github.com/seoul-iotdata/iotdata/blob/master/data_info/sensor_longitude_latitude.csv))
    * 시리얼
    * 위도
