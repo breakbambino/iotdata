@@ -45,10 +45,16 @@
 
   
   
-### 센서 RAW 데이터
+### 센서 RAW 데이터(용량 제한으로 ZIP으로 압축)(data_raw\)
 
-- 2020.02.16 측정 데이터
-  * PUBDATA_20200216.csv
+- 2020-03-15 ~ 2020-03_21 수집 데이터
+  * ALLDATA_20200315.csv
+  * ALLDATA_20200316.csv
+  * ALLDATA_20200317.csv
+  * ALLDATA_20200318.csv
+  * ALLDATA_20200319.csv
+  * ALLDATA_20200320.csv
+  * ALLDATA_20200321.csv
 
 
 
