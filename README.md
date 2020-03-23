@@ -2,15 +2,12 @@
 - 도시에서 발생되는 다양한 원천데이터를 실시간으로 수집,연계,활용하는 IoT기반 도시데이터로 수집데이터로 분석,활용이 가능합니다. 
 
   
- 
-
-
 
 ## 데이터 속성
 
 - 데이터 출처
   * 기관 : 서울시
-  * 서비스명 : S-DoT 서울시 도시데이터 센서 
+  * 서비스명 : S-DoT 서울시 도시데이터 시스템 
 
 - 데이터 구조 (data_info[/sensor_data_information.csv](https://github.com/seoul-iotdata/iotdata/blob/master/data_info/sensor_data_information.csv))
 
