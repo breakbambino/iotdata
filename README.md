@@ -48,13 +48,13 @@
 ### 데이터 RAW (용량 제한으로 ZIP으로 압축)(data_raw\)
 - 2020-03-15 ~ 2020-03-21 수집 데이터
 
-  * ALLDATA_20200315.csv
-  * ALLDATA_20200316.csv
-  * ALLDATA_20200317.csv
-  * ALLDATA_20200318.csv
-  * ALLDATA_20200319.csv
-  * ALLDATA_20200320.csv
-  * ALLDATA_20200321.csv
+  * ALLDATA_20200315.csv -> 파일용량 약 110메가 
+  * ALLDATA_20200316.csv -> 파일용량 약 110메가 
+  * ALLDATA_20200317.csv -> 파일용량 약 110메가 
+  * ALLDATA_20200318.csv -> 파일용량 약 110메가 
+  * ALLDATA_20200319.csv -> 파일용량 약 110메가 
+  * ALLDATA_20200320.csv -> 파일용량 약 110메가 
+  * ALLDATA_20200321.csv -> 파일용량 약 110메가 
 
 
 
