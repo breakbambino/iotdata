@@ -6,7 +6,15 @@ library(ggthemes)
 library(directlabels)
  
  
-#모든 파일 읽기
+
+#작업 경로 확인
+#getwd()
+
+#작업 경로 설정
+#setwd(디렉토리명)
+
+
+#작업 경로 내 모든 csv파일 읽기 (S-Dot 샘플 데이터 기준)
 alldata <- list.files(pattern = "*.csv") %>%  map_df(~fread(.))
  
 #데이터 구조 확인
